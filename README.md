@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanvi!
-- 👀 I’m interested in Data Study/analysis
-- 🌱 I’m currently learning Data Science/ Machine learning
+- 👀 I’m interested in Data Study/Business analysis
+- 🌱 I’m currently a Business Analyst
 - 📫 How to reach me tanvi.kulkarni8817@gmail.com
 
 <!---
